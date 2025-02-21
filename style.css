@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+
+.title{
+    text-align: center;
+    margin: 12px;
+}
+
+.images{
+    height: 150px;
+    width: auto;
+}
+
+.block{
+    display: block;
+}
+
+.cards{
+    display: inline-block;
+    margin: 12px 24px;
+}
+
+a{
+    text-align: center;
+    padding: 8px 3px;
+    background-color: aliceblue;
+}
+
+ul{
+    text-align: center;
+}
+
+body{
+    background-color: lightgrey;
+}
